@@ -27,4 +27,6 @@ many luxury amenities.
 
 Name - The first and last names of the passenger.
 
-Transported - Whether the passenger was transported to another dimension. This is the target, the column you are trying to predict.
+Transported - Whether the passenger was 
+transported to another dimension. This is the 
+target, the column you are trying to predict.
